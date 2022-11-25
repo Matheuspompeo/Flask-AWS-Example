@@ -4,4 +4,6 @@ cd /home/ubuntu
 sudo apt-get update
 sudo apt-get install -y python3 python3-pip
 pip3 install Flask
+ls
+pwd
 pip3 install -r requirements.txt
